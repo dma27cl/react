@@ -1,0 +1,50 @@
+body {
+  
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.App {
+  background-color: #fff7f9;
+  height: 36rem;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.pink {
+  background-color: #fad4dc;
+  height: 4rem;
+}
+
+.imgLogo {
+  position: absolute;
+  top: 4rem;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  margin: auto;
+
+}
+
+.menu{
+  margin-right: 10rem;
+}
+
+.imgCake {
+  position: absolute;
+  top: 4rem;
+  left: 7rem;
+  right: 0;
+  bottom: 0;
+  margin: auto;
+  border:solid white 0.5rem;
+  border-radius: 5%;
+
+}
